@@ -1,4 +1,4 @@
-Admin username: test
+Admin username: test <br>
 Admin password: 12345
 
 you can access admin page from http://127.0.0.1:8000/admin/
